@@ -1,0 +1,27 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "Dans ce projet Github je vais commencer par une simple intégration d'une seule page côté front. Par la suite, j'ajouterai d'autres pages et mettrai en place les interactions de chaque bouton avec JS et node.JS. A voir une possible utilisation de React.",
+  "main": "index.js",
+  "type": "module",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierMarcotte/Spotify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierMarcotte/Spotify/issues"
+  },
+  "homepage": "https://github.com/XavierMarcotte/Spotify#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
